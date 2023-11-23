@@ -46,7 +46,7 @@ const padres1998WorldSeriesRuns = [6, 3, 5, 3]
 
 // Pseudo code:
 // input: two arrays 
-// output: return the length of the combined arrays
+// output: combine the length of the arrays
 // set a function that takes the two arrays
 // concatenate the arrays 
 // return the combined array length

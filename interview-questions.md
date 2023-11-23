@@ -12,7 +12,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Your answer: A conditional statement, or if/else, allows preset decisions to occur.
 
-Researched answer: Conditional statements are flowchart-like instructions that produce a new output(s) within the code.
+Researched answer: Conditional statements are flowchart-like instructions that produce an output(s) within the code.
 
 1. What is git? What is the difference between git and Github?
 
@@ -30,9 +30,9 @@ Researched answer: An index is an address-like sequential data accessible within
 
 3. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
- Your answer: An array is a list of strings and numbers. A string is a textform in quotation marks. An array can have one or more strings, be separated by a comma as an array element, and both an array and string are pivotal in Javascript. A string, however, cannot be an array or directly altered outside of a function, such as via the toUpperCase method. 
+ Your answer: An array is a list of strings and numbers. A string is a text form in quotation marks. An array can have one or more strings, be separated by a comma as an array element, and both an array and string are pivotal in Javascript. A string, however, cannot be an array or directly altered outside of a function, such as via the toUpperCase method. 
 
-Researched answer: An array groups things (data) together like a container of Javascript-friendly information (datatypes). Arrays and strings are essential programming data structures and hold value. But while arrays store and manipulate sets of datatypes and are contained by brackets, strings represent one storable and manipulatable datatype, text, which is contained by double or single quotes.
+Researched answer: An array groups things (data) together, like a container of Javascript-friendly information (datatypes). Arrays and strings are special data structures and hold value. But while arrays store and manipulate sets of datatypes and are contained by brackets, strings represent one storable and manipulatable datatype, text, which is contained by double or single quotes.
 
 
 4. STRETCH: What are the four pillars of object oriented programming?

@@ -27,8 +27,8 @@ console.log(cohort.length)
 const greeting = "Hello World!"
 console.log(greeting[4])
 
-// a) Your answer: The first o.
-// b) Verify and explain: The o of Hello; bracket notation dynamically accesses any character in a string.
+// a) Your answer: The "o" of Hello.
+// b) Verify and explain: o; bracket notation dynamically accesses any character in a string.
 
 // --------------------3) What will this log?
 
@@ -45,7 +45,7 @@ console.log(languages[index])
 const weekendDays = ["saturday", "sunday"]
 console.log(weekendDays.toUpperCase())
 
-// a) Your answer: Error message; toUpperCase() is inapplicable directly to an array.
+// a) Your answer: Error message: undefined; toUpperCase() is inapplicable directly to an array.
 // b) Verify and explain: TypeError: weekendDays.toUpperCase is not a function; the toUpperCase() method converts a string 
 //                        to uppercase letters, but does not change the original string. The .map() method of an array can
 //                        create a new array by calling a function on each array element, returning each value of a string
