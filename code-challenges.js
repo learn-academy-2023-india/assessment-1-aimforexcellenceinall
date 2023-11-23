@@ -84,8 +84,8 @@ const stockExchange = [13, 34, -4, 42, 5, -5, 10, 27, 42, 10]
 // input: an array
 // output: log the odd numbers
 // interate through the array elements
-// conditional statement to check for an odd number (a nonzero remainder) with a conditional
-// log the odd numbers
+// conditional statement to check for an odd number (a nonzero remainder)
+// return the odd numbers
 
 for(let i = 0; i < stockExchange.length; i++) {
     if(stockExchange[i] % 2 !== 0) {
